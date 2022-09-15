@@ -53,3 +53,5 @@ Example: A soda store may offer six distinct soda mixes, but if you receive the 
 
 
 ## Q3.Phases of Big Data analysis
+
+
